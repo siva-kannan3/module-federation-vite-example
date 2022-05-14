@@ -19,4 +19,4 @@ npm run start
 
 For viewing remote application visit [http://localhost:4173](http://localhost:4173) in your browser, and to view the host application visit [http://localhost:4000](http://localhost:4000).
 
-Feel free to give a star ⭐ if you have liked this project.
+Feel free to give a star ⭐ if you found it useful.
