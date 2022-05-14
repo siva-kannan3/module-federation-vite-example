@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "concurrently \"cd home && npm run dev\" \"cd widgets && npm run preview\"",
-    "build-remote": "cd widgets && npm run build"
+    "start": "concurrently \"cd host && npm run dev\" \"cd remote && npm run preview\"",
+    "build-remote": "cd remote && npm run build"
   },
   "keywords": [],
   "author": "",
