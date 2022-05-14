@@ -17,6 +17,7 @@ And try running the below command to start the application & see it in action.
 npm run start
 ```
 
-For viewing remote application visit [http://localhost:4173](http://localhost:4173) in your browser, and to view the host application visit [http://localhost:4000](http://localhost:4000).
+For viewing remote application visit <a href="http://localhost:4173" target="_blank">http://localhost:4173</a>
+in your browser, and to view the host application visit <a href="http://localhost:4000" target="_blank">http://localhost:4000</a>.
 
 Feel free to give a star ⭐ if you have liked this project.
